@@ -1,0 +1,99 @@
+<mxfile host="app.diagrams.net" modified="2024-05-13T06:07:49.093Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="B5viBgRH639sG4UN54LX" version="24.3.1" type="github">
+  <diagram id="IJkim7b1NlplbVzwBpqf" name="Page-1">
+    <mxGraphModel dx="954" dy="700" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="928OIOf1kHwkli3LgmWI-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=openThin;endFill=0;fontColor=none;noLabel=1;strokeColor=#4D4D4D;" parent="1" source="928OIOf1kHwkli3LgmWI-2" target="928OIOf1kHwkli3LgmWI-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="463" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=openThin;endFill=0;strokeColor=#4D4D4D;" parent="1" source="928OIOf1kHwkli3LgmWI-2" target="928OIOf1kHwkli3LgmWI-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=openThin;endFill=0;strokeColor=#4D4D4D;" parent="1" source="928OIOf1kHwkli3LgmWI-2" target="928OIOf1kHwkli3LgmWI-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-2" value="Routing Protocols" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1;fillColor=default;strokeColor=#999999;" parent="1" vertex="1">
+          <mxGeometry x="446" y="79" width="208" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-3" value="Static" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="360" y="153" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-4" value="Default" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="515" y="153" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=openThin;endFill=0;strokeColor=#4D4D4D;" parent="1" source="928OIOf1kHwkli3LgmWI-5" target="928OIOf1kHwkli3LgmWI-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=openThin;endFill=0;strokeColor=#4D4D4D;" parent="1" source="928OIOf1kHwkli3LgmWI-5" target="928OIOf1kHwkli3LgmWI-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-5" value="Dynamic" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="671" y="153" width="92" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=openThin;endFill=0;strokeColor=#4D4D4D;" parent="1" source="928OIOf1kHwkli3LgmWI-10" target="928OIOf1kHwkli3LgmWI-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=openThin;endFill=0;strokeColor=#4D4D4D;" parent="1" source="928OIOf1kHwkli3LgmWI-10" target="928OIOf1kHwkli3LgmWI-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-10" value="Interior Gateway Protocol (IGP)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="307" y="227" width="242" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=openThin;endFill=0;strokeColor=#4D4D4D;" parent="1" source="928OIOf1kHwkli3LgmWI-11" target="928OIOf1kHwkli3LgmWI-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="779" y="257" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-11" value="Exterior Gateway Protocol (IGP)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="658" y="227" width="242" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-14" value="Distance Vector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="201" y="284" width="126" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-15" value="Link State" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="493" y="285" width="126" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=openThin;endFill=0;strokeColor=#4D4D4D;" parent="1" source="928OIOf1kHwkli3LgmWI-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="848" y="349" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-17" value="Path Vector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="785" y="284" width="126" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-22" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 18px;&quot;&gt;BGP&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Border Gateway Protocol&lt;/b&gt;&lt;/p&gt;&lt;p&gt;- Glue of the Internet (No BGP, No Internet)&lt;/p&gt;&lt;p&gt;- Used by AS border routers (AS-to-AS)&lt;/p&gt;" style="text;html=1;overflow=hidden;rounded=0;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;glass=0;strokeColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="751" y="350" width="243" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-28" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 18px;&quot;&gt;RIP&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Routing Information Protocol&lt;/b&gt;&lt;/p&gt;&lt;p&gt;- Old and slow (RIPv1, RIPv2)&lt;/p&gt;&lt;p&gt;- Limit of 15 hops&lt;/p&gt;" style="text;html=1;overflow=hidden;rounded=0;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;glass=0;strokeColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="152" y="350" width="261" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-30" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 18px;&quot;&gt;OSPF&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Open Shortest Path First&lt;/b&gt;&lt;/p&gt;&lt;p&gt;- More efficient and faster than RIP&lt;br&gt;&lt;/p&gt;&lt;p&gt;- No hop limits&lt;/p&gt;" style="text;html=1;overflow=hidden;rounded=0;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;glass=0;strokeColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="453" y="350" width="259" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-31" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 18px;&quot;&gt;EIGRP&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Enhanced Interior Gateway Routing Protocol&lt;/b&gt;&lt;/p&gt;&lt;p&gt;- Distance vector + link state&lt;/p&gt;&lt;p&gt;- Cisco proprietary&lt;/p&gt;" style="text;html=1;overflow=hidden;rounded=0;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;glass=0;strokeColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="152" y="492" width="261" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-32" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 18px;&quot;&gt;IS-IS&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Intermediate System to Intermediate System&lt;/b&gt;&lt;/p&gt;&lt;p&gt;- Less common than OSPF&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Support IPv6&lt;/p&gt;" style="text;html=1;overflow=hidden;rounded=0;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;glass=0;strokeColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="453" y="492" width="259" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-41" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=openThin;endFill=0;strokeColor=#4D4D4D;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="263.5" y="314" as="sourcePoint" />
+            <mxPoint x="263.5" y="349" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="928OIOf1kHwkli3LgmWI-49" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=openThin;endFill=0;strokeColor=#4D4D4D;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="559" y="315" as="sourcePoint" />
+            <mxPoint x="559" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
